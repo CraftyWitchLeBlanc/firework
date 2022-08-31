@@ -1,3 +1,14 @@
+/**
+ * @简要说明         : 
+ * @Version      : v1.0.0
+ * @文件路径         : /new/firework/烟花绽放的夏天/烟花绽放的夏天/main.h
+ * @作者           : CraftyWitchLeBlanc 15183543630@163.com
+ * @创建日期         : 2022-08-31 19:10:09
+ * @文件最后编辑者      : CraftyWitchLeBlanc 15183543630@163.com
+ * @文件最后编辑时间     : 2022-09-01 00:14:19
+ * @QQ:2159273770
+ * @Copyright:G AUTOMOBILE RESEARCH INSTITUTE CO.,LTD Copyright (c) 2022.
+**/
 #pragma once
 #include<stdio.h>
 #include<graphics.h>   //图形界面库头文件
